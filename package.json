@@ -1,0 +1,32 @@
+{
+  "name": "artifacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "EUPL",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.3.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/preset-typescript": "^7.1.0",
+    "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0-beta.2",
+    "@vue/babel-preset-jsx": "^1.0.0-beta.2",
+    "axios": "^0.18.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "vue": "^2.6.9",
+    "vue-loader": "^15.7.0",
+    "vue-property-decorator": "^8.0.0",
+    "vue-template-compiler": "^2.6.9",
+    "vuex": "^3.1.0",
+    "webpack": "^4.29.6"
+  }
+}
